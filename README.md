@@ -1,2 +1,3 @@
 # ozon-api-html
-HTML Ozon Seller API
+Ozon Seller API in 3 parts used Swagger.json
+
